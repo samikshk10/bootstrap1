@@ -4074,27 +4074,27 @@ button.bg-secondary:focus {
 }
 
 .rounded {
-  border-radius: 0.25rem !important;
+  border-radius: 2rem !important;
 }
 
 .rounded-top {
-  border-top-left-radius: 0.25rem !important;
-  border-top-right-radius: 0.25rem !important;
+  border-top-left-radius: 2rem !important;
+  border-top-right-radius: 2rem !important;
 }
 
 .rounded-right {
-  border-top-right-radius: 0.25rem !important;
-  border-bottom-right-radius: 0.25rem !important;
+  border-top-right-radius: 2rem !important;
+  border-bottom-right-radius: 2rem !important;
 }
 
 .rounded-bottom {
-  border-bottom-right-radius: 0.25rem !important;
-  border-bottom-left-radius: 0.25rem !important;
+  border-bottom-right-radius: 2rem !important;
+  border-bottom-left-radius: 2rem !important;
 }
 
 .rounded-left {
-  border-top-left-radius: 0.25rem !important;
-  border-bottom-left-radius: 0.25rem !important;
+  border-top-left-radius: 2rem !important;
+  border-bottom-left-radius: 2rem !important;
 }
 
 .rounded-lg {

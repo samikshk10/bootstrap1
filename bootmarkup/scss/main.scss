@@ -127,3 +127,18 @@ textarea{
 
 //   }
 // }
+
+
+.z-index-max{
+  z-index: 999;
+}
+
+blockquote{
+  p{
+    quotes: none;
+    &:after,&:before{
+      content:'"';
+
+    }
+  }
+}

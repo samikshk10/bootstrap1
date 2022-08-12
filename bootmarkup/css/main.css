@@ -209,3 +209,15 @@ body {
 textarea {
   resize: none;
 }
+
+.z-index-max {
+  z-index: 999;
+}
+
+blockquote p {
+  quotes: none;
+}
+
+blockquote p:after, blockquote p:before {
+  content: '"';
+}
